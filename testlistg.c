@@ -1,5 +1,5 @@
 #include "listg.h"
-#include "listg.c"
+
  int main(int argc, char **argv)
 {
      List *list = (List *)malloc(sizeof(List));
