@@ -1,4 +1,5 @@
-#include"sort.c"
+#include<stdio.h>
+#include"sort.h"
 
 
 int main(int argc, char **argv)                    //分别实现四种排序。

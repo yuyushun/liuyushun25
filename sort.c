@@ -1,5 +1,4 @@
-#include<stdlib.h>
-#include<stdio.h>
+#include"sort.h"
 
 
 //输出排序
