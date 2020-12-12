@@ -1,4 +1,4 @@
-#ifdef sort_h
+#ifndef sort_h
 #define sort_h
 #include<stdio.h>
 #include<stdlib.h>
