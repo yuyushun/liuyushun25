@@ -10,4 +10,5 @@ testqueue: queue.c testqueue.c
 clean:
 	rm testlistg
 	rm testsort
+	rm teststack
 	rm testqueue
